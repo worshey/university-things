@@ -9,7 +9,7 @@ Bem-vindo ao meu repositório de programas e jogos desenvolvidos durante minha j
 O repositório está organizado da seguinte forma:
 
 - **/university-things/**
-  - Esta pasta contém programas desenvolvidos para diversas disciplinas, projetos individuais ou em grupo. Cada subpasta dentro de /Programas/ pode conter um projeto específico, acompanhado de sua documentação e instruções de uso.
+  - Esta pasta contém programas desenvolvidos para diversas disciplinas, projetos individuais ou em grupo. Cada subpasta dentro de /university-things/ pode conter um projeto específico, acompanhado de sua documentação e instruções de uso.
 
 - **/"nome do jogo"/**
   - Aqui estão os jogos que desenvolvi como parte de projetos acadêmicos ou como projetos pessoais. Cada jogo terá sua própria pasta, incluindo arquivos de código-fonte, recursos necessários e instruções para executá-lo.
@@ -47,10 +47,10 @@ Welcome to my repository of programs and games developed during my university jo
 
 The repository is structured as follows:
 
-- **/Programs/**
-  - This directory contains programs developed for various courses, individual or group projects. Each subfolder within /Programs/ may house a specific project, accompanied by its documentation and usage instructions.
+- **/university-things/**
+  - This directory contains programs developed for various courses, individual or group projects. Each subfolder within /university-things/ may house a specific project, accompanied by its documentation and usage instructions.
 
-- **/Games/**
+- **/"game name"/**
   - Here lie the games I've developed as part of academic projects or personal endeavors. Each game will have its own folder, including source code files, necessary resources, and instructions to run it.
 
 ## Project List
